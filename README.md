@@ -1,5 +1,3 @@
-# supply-chain-sql-project
-SQL and Power BI analysis of a simulated supply chain system.
 # 🧠 Supply Chain SQL + Power BI Project
 
 This project simulates a multi-warehouse retail supply chain system. I used SQL to analyze product performance, inventory turnover, and sales trends, then visualized the results in Power BI.

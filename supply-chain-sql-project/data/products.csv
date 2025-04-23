@@ -1,0 +1,11 @@
+product_id,name,category,cost,price
+1,Product_1,Electronics,6.34,60.39
+2,Product_2,Electronics,14.84,108.35
+3,Product_3,Home,27.74,101.89
+4,Product_4,Apparel,6.19,80.42
+5,Product_5,Apparel,13.95,69.33
+6,Product_6,Apparel,34.24,117.43
+7,Product_7,Electronics,29.52,80.2
+8,Product_8,Electronics,14.92,65.56
+9,Product_9,Beauty,31.52,65.8
+10,Product_10,Electronics,41.42,110.85

@@ -45,7 +45,7 @@ The Tableau dashboard displays:
 | Monthly Sales by Category  | Line Chart or Stacked Bars |
 | Inventory Turnover Rate    | KPI Indicator or Bar Chart |
 | Low Inventory Products     | Color-coded Table          |
-| Profitability by Product   | Bar Chart by Profit Margin |
+| Profitability by Product   | Bar Chart |
 
 Filters include:  
 - 🏢 Warehouse  
@@ -53,7 +53,7 @@ Filters include:
 - 🎯 Product Category  
 
 > 📍 **View the live dashboard (hosted on Tableau Public)**  
-> 🔗 * https://public.tableau.com/views/SQL_TableauProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link *
+> 🔗 **https://public.tableau.com/views/SQL_TableauProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ---
 

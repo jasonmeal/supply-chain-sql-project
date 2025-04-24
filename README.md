@@ -53,7 +53,7 @@ Filters include:
 - 🎯 Product Category  
 
 > 📍 **View the live dashboard (hosted on Tableau Public)**  
-> 🔗 *[Insert your Tableau Public link here once published]*
+> 🔗 * https://public.tableau.com/views/SQL_TableauProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link *
 
 ---
 

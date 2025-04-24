@@ -67,8 +67,4 @@ Filters include:
 
 ---
 
-## 📁 Project Structure
-
----
-
 **Created by Jason Meal**
